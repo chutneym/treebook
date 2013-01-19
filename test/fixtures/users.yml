@@ -9,3 +9,9 @@ manuela:
   last_name: "Meusburger"
   profile_name: "manuelameusburger"
   email: "manuela.l.m@hotmail.com"
+
+mike:
+  first_name: "Mike"
+  last_name: "The Frog"
+  email: "mike@teamtreehouse.org"
+  profile_name: "mikethefrog"
